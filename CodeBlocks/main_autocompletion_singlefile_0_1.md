@@ -7,7 +7,7 @@ Opening up autocompletion with `Ctrl+Space` triggers the following pop-up dialog
 
 ![no-type](_1.png)
 
-Many names are listed, but there's no visible distinction which names are types, functions or variables.
+Many names are listed, but only from standard library, there are no names from the current file. There's no visible distinction which names are types, functions or variables.
 
 ![std_](_2.png)
 
