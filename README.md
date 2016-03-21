@@ -1,4 +1,4 @@
-C++ IDE Comparison
+C++ IDE Comparison [![License](https://img.shields.io/badge/license-CC0-blue.svg?style=flat)](LICENSE)
 ------------------
 
 Extensible comparison between various C++ IDEs
